@@ -1,0 +1,6 @@
+(print "OPERACION MATEMATICA")
+(print "2(4 − 1)6  + (8 − 6)7")
+(print "___________")
+(print "18")
+(print "EL RESULTADO ES = A" )
+(print(+ (* 2 (- 4 1) (/ 6 18)) (* (- 8 6) 7)))
